@@ -1,0 +1,8 @@
+0.0.0.0 mistrzowie.org
+0.0.0.0 www.mistrzowie.org
+0.0.0.0 joemonster.org
+0.0.0.0 www.joemonster.org
+0.0.0.0 wiocha.pl
+0.0.0.0 www.wiocha.pl
+0.0.0.0 chamsko.pl
+0.0.0.0 www.chamsko.pl
